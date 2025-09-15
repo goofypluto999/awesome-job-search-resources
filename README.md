@@ -1,4 +1,4 @@
-# 🚀 Awesome Job Search Resources
+# 🚀 Awesome Job Search Resources 
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-job-search-resources.svg?style=social&label=Star)](https://github.com/yourusername/awesome-job-search-resources)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-job-search-resources.svg?style=social&label=Fork)](https://github.com/yourusername/awesome-job-search-resources/fork)
