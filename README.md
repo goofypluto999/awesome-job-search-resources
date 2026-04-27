@@ -71,8 +71,8 @@
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) - JSON formatter
 
 ### ATS & Resume Checkers
-- [CV Mirror](https://cv-mirror-web.vercel.app/) - Free, fully client-side ATS scanner. Simulates how 5 real ATS systems (Workday, Greenhouse, Lever, Taleo, iCIMS) parse your CV, side by side. No signup, nothing uploads.
-- [Vantage AI](https://vantage-livid.vercel.app/) - AI job preparation tool. Upload CV + paste job link, get the full prep pack (company brief, tailored cover letter, mock interview, fit score, 5-min pitch) in 90 seconds.
+- [CV Mirror](https://cv-mirror-web.vercel.app/) - Client-side ATS resume scanner that compares parser output across multiple systems.
+- [Vantage AI](https://vantage-livid.vercel.app/) - AI job prep tool that generates company research, cover letters, mock interview questions, and CV fit analysis.
 
 ## �� Career Advice
 
